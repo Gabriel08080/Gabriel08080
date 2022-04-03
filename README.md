@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabriel!
+- 👀 I’m interested in develop projects.
+- 🌱 I’m currently learning Python, but I have knowledge in other programming languages (C, Java).
+- 👯 I'm looking to collaborate on any project in which I can evolve.
+- 📫 How to reach me: gabriell_080@live.com
